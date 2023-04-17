@@ -1,5 +1,8 @@
 
-<iframe src="https://giphy.com/embed/RN8FdaB6T1bkkI5n4I" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I">via GIPHY</a></p>
+
+
+
+img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNiODUyNTNmOWE0Y2E2ZmFmMGIxZDMxNTQ1ODdhNGJlMDVjZjNhZSZjdD1z/RN8FdaB6T1bkkI5n4I/giphy.gif" alt="c" width="40" height="40"/> 
 <h1 align="center">Hi 👋, I'm hamza essalhi</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
