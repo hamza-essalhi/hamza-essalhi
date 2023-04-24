@@ -1,8 +1,8 @@
 
 
-
+$\color{green}{test}$
 <div align="center"  style='color:#008F11;'>
- $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
+ 
  <span style='color:rgb(0,143,17);'>Take the blue pill</span>
 <img   src="https://i.imgur.com/KZyNequ.gif" alt="c" width="100%" height="auto"/> 
  
