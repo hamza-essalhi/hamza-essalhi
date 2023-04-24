@@ -2,7 +2,8 @@
 
 
 <div align="center">
-<img   src="https://i.giphy.com/media/1C8bHHJturSx2/giphy.webp" alt="c" width="100%" height="auto"/> 
+<img   src="https://i.imgur.com/KZyNequ.gif" alt="c" width="100%" height="auto"/> 
+ <h1>You take the blue pill...</h1>
  </div>
 <h1 align="center">Hi 👋, I'm hamza essalhi</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
