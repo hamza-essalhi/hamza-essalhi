@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img   src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.webp" alt="c" width="400" height="400"/> 
+<img   src="https://i.giphy.com/media/1C8bHHJturSx2/giphy.webp" alt="c" width="400" height="400"/> 
  </div>
 <h1 align="center">Hi 👋, I'm hamza essalhi</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
