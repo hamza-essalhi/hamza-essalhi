@@ -1,8 +1,8 @@
 
 
 
-<div align="center">
- <h1 style='color:red'>You take the blue pill...</h1>
+<div align="center"  style='color:#008F11;'>
+ <span style='color:#008F11;'>Take the blue pill</span>
 <img   src="https://i.imgur.com/KZyNequ.gif" alt="c" width="100%" height="auto"/> 
  
  </div>
