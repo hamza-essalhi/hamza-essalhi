@@ -2,7 +2,7 @@
 
 
 
-<img  align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU5NTk3MWU3YzM5YTVkYjBhNDRjMGM5MjhiOTFmYTQ2ZGE5ZTE0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="c" width="400" height="400"/> 
+<img  align="center" src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.webp" alt="c" width="400" height="400"/> 
 <h1 align="center">Hi 👋, I'm hamza essalhi</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
