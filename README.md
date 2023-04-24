@@ -1,6 +1,6 @@
 
 
-# $\color{#008F11}{Take the blue pill}$
+# $\color{#008F11}{Take\ the \ blue \ pill}$
 <div align="center"  style='color:#008F11;'>
 <img   src="https://i.imgur.com/KZyNequ.gif" alt="c" width="100%" height="auto"/> 
  
