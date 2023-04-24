@@ -2,8 +2,9 @@
 
 
 <div align="center">
+ <h1 color="#003B00">You take the blue pill...</h1>
 <img   src="https://i.imgur.com/KZyNequ.gif" alt="c" width="100%" height="auto"/> 
- <h1>You take the blue pill...</h1>
+ 
  </div>
 <h1 align="center">Hi 👋, I'm hamza essalhi</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
